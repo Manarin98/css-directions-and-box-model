@@ -1,1 +1,13 @@
-/* Start coding here */
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  background-color: khaki;
+  font-size: 72px;
+  height: 800px;
+  padding: 30px;
+  padding-left: 45%;
+  border: 24px solid crimson;
+  box-shadow: 0 0 0 16px black, 0 0 0 26px lightgrey;
+}
