@@ -1,1 +1,27 @@
-/* Start coding here */
+* {
+  box-sizing: border-box;
+}
+
+.travel-blog {
+  background-color: lightskyblue;
+  padding: 20px;
+  font-size: 20px;
+}
+
+.cafechiangmai {
+  background-color: gray;
+  border: solid;
+  width: 550px;
+  margin-left: 100px;
+  margin-top: 50px;
+  padding: 30px;
+}
+
+.traveltop10 {
+  background-color: gray;
+  border: solid;
+  width: 550px;
+  margin-left: 100px;
+  margin-top: 50px;
+  padding: 30px;
+}
