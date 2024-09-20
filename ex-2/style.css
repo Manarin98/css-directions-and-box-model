@@ -1,1 +1,12 @@
 /* Start coding here */
+
+h1 {
+  border: solid 24px crimson;
+  box-shadow: 0 0 0 10px black, 0 0 0 20px lightgray;
+  width: 100%;
+  height: 500px;
+  text-align: center;
+  font-size: 72px;
+  padding-top: 30px;
+  background-color: khaki;
+}
